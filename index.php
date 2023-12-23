@@ -8,5 +8,6 @@
 <body>
     <h1>Welcome to PHP DEV</h1>
     <p>to learn PHP</p>
+    <p>to write <code>CODE</code></p>
 </body>
 </html>
